@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 #### Lets connect through:
 <div id="badges">
@@ -13,12 +13,12 @@
 
 ---
 ### :woman_technologist: About Me :
-Am a Web Developer | Data Analyst.
+I am a Web Developer | Data Analyst.
 
 - 🔭 I’m currently working as Software Developer / Data Analyst.
 - 🌱 I’m currently learning Data Analytics & Reporting and the tools I use most frequently are Power BI, Excel, Python & SQL.
 - 👯 I’m looking to collaborate on Data Science projects, Python/Django projects. 
-- ⚡ Fun fact: I love to watch tech movies.
+- ⚡ I love to watch tech movies.
 
 ---
 ### :hammer_and_wrench: Languages & Tools :
