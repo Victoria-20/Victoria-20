@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/oguti-victoria-95b53b12a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/victoriaocon5">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -13,11 +13,11 @@
 
 ---
 ### :woman_technologist: About Me :
-I am a Web Developer | Data Analyst.
+I am a Data Scientist | Software Developer.
 
-- 🔭 I’m currently working as Software Developer / Data Analyst.
-- 🌱 I’m currently learning Data Analytics & Reporting and the tools I use most frequently are Power BI, Excel, Python & SQL.
-- 👯 I’m looking to collaborate on Data Science projects, Python/Django projects. 
+- 🔭 Currently working as Software Developer / Data Analyst.
+- 🌱 I’m currently looking into Machine Learning & AI, tools I use most frequently are Python, Power BI, Exce & SQL.
+- 👯 I’m looking to collaborate on Data Science projects, Research papers especially in the areas of ML and Internet of Things(IoT). 
 - ⚡ I love to watch tech movies.
 
 ---
